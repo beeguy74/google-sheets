@@ -1,0 +1,20 @@
+# Angular generated files
+/dist/
+/node_modules/
+
+# IDE files
+.idea/
+.vscode/
+
+# Build artifacts
+*.js
+*.js.map
+*.d.ts
+*.css
+*.html
+
+# Testing artifacts
+/coverage/
+
+# Environment variables
+.env
