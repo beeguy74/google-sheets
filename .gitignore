@@ -6,24 +6,28 @@
 /out-tsc
 /bazel-out
 
+# angular stuff
+/.angular
+# environment files
+/src/environments/environment.ts
+/src/environments/environment.development.ts
+
 # Node
 /node_modules
 npm-debug.log
 yarn-error.log
 
+
 # IDEs and editors
 .idea/
 .vscode/
 
-# Build artifacts
-*.js
-*.js.map
-*.d.ts
-*.css
-*.html
 
 # Testing artifacts
 /coverage/
 
 # Environment variables
 .env
+
+#index gapi sample
+index.html
